@@ -20,11 +20,11 @@ It is a Exploratory Data Analysis (EDA) Challenge.
 
 README.md (This file)
 
+SPOTIFY_DATASET_ANALYSIS_NC.ipynb (The main Jupyter Notebook with all my code and analysis.)
+
 Spotify_Dataset_Mindmaps.pdf (Description of the challenge under THE MANHATTAN PROJECT)
 
 spotify.zip (The folder contains spotify_tracks.csv which is the raw dataset used for the challenge and spotify_data_description.csv which contains Spotify Data Description.)
-
-SPOTIFY_DATASET_ANALYSIS_NC.ipynb (The main Jupyter Notebook with all my code and analysis.)
 
 spotify_NC.pdf (The main presentation in pdf format showing the complete data analysis.)
 

@@ -22,7 +22,7 @@ README.md (This file)
 
 SPOTIFY_DATASET_ANALYSIS_NC.ipynb (The main Jupyter Notebook with all my code and analysis.)
 
-Spotify_Dataset_Mindmaps.pdf (Description of the challenge under THE MANHATTAN PROJECT)
+SPOTIFY_MINDMAP.pdf (It contains the description of the entire challenge under THE MANHATTAN PROJECT.)
 
 spotify.zip (The folder contains spotify_tracks.csv which is the raw dataset used for the challenge and spotify_data_description.csv which contains Spotify Data Description.)
 
